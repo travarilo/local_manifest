@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="github" fetch="https://github.com/" />
+
+  <!-- A52 -->
+  <project path="device/samsung/a52q" name="bananadroid-devices/android_device_samsung_a52q" remote="github" revision="13" />
+  <project path="device/samsung/sm7125-common" name="bananadroid-devices/android_device_samsung_sm7125-common" remote="github" revision="13" />
+  <project path="kernel/samsung/sm7125" name="bananadroid-devices/android_kernel_samsung_sm7125" remote="github" revision="master" />
+  <project path="vendor/samsung" name="bananadroid-devices/android_vendor_samsung_sm7125" remote="github" revision="13" />
+
+</manifest>
